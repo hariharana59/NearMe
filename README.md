@@ -218,10 +218,15 @@ school.html
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-03-24 143127.png>)
+
 ![alt text](<Screenshot 2024-03-24 143021.png>)
+
 ![alt text](<Screenshot 2024-03-24 142942.png>)
+
 ![alt text](<Screenshot 2024-03-24 142837.png>)
+
 ![alt text](<Screenshot 2024-03-24 142901.png>)
+
 ![alt text](<Screenshot 2024-03-24 144140.png>)
 
 
